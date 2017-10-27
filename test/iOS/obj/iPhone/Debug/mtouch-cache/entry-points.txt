@@ -1,0 +1,27 @@
+Function=xamarin_timezone_get_data
+	/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+Function=UIApplicationMain
+	/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+Function=mono_pmip

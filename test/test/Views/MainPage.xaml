@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="test.Views.MainPage">
+	<ContentPage.Content>
+        <StackLayout>
+            <Button Text="Books Flights"  VerticalOptions="CenterAndExpand" AutomationId="btn_books_flights" Clicked="Handle_Clicked"/>
+            <Button Text="Show Flights" VerticalOptions="CenterAndExpand" AutomationId="btn_show_flights" Clicked="Handle_Clicked"/>
+            <Button Text="Books by Client" VerticalOptions="CenterAndExpand" AutomationId="btn_books_by_client" Clicked="Handle_Clicked"/>
+
+        </StackLayout>
+
+	</ContentPage.Content>
+    
+</ContentPage>

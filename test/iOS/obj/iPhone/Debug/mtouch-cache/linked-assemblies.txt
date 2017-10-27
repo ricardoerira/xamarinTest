@@ -1,0 +1,15 @@
+/Users/ricardo/Projects/test/iOS/bin/iPhone/Debug/test.iOS.app:/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/test.iOS.exe
+/Users/ricardo/Projects/test/iOS/bin/iPhone/Debug/test.iOS.app:/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/ricardo/Projects/test/iOS/bin/iPhone/Debug/test.iOS.app:/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/ricardo/Projects/test/iOS/bin/iPhone/Debug/test.iOS.app:/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/ricardo/Projects/test/iOS/bin/iPhone/Debug/test.iOS.app:/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/Mono.Security.dll
+/Users/ricardo/Projects/test/iOS/bin/iPhone/Debug/test.iOS.app:/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/ricardo/Projects/test/iOS/bin/iPhone/Debug/test.iOS.app:/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Core.dll
+/Users/ricardo/Projects/test/iOS/bin/iPhone/Debug/test.iOS.app:/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/ricardo/Projects/test/iOS/bin/iPhone/Debug/test.iOS.app:/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.Forms.Core.dll
+/Users/ricardo/Projects/test/iOS/bin/iPhone/Debug/test.iOS.app:/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.Forms.Platform.dll
+/Users/ricardo/Projects/test/iOS/bin/iPhone/Debug/test.iOS.app:/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Net.Http.dll
+/Users/ricardo/Projects/test/iOS/bin/iPhone/Debug/test.iOS.app:/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Runtime.Serialization.dll
+/Users/ricardo/Projects/test/iOS/bin/iPhone/Debug/test.iOS.app:/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.ServiceModel.Internals.dll
+/Users/ricardo/Projects/test/iOS/bin/iPhone/Debug/test.iOS.app:/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/test.dll
+/Users/ricardo/Projects/test/iOS/bin/iPhone/Debug/test.iOS.app:/Users/ricardo/Projects/test/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.Forms.Xaml.dll
